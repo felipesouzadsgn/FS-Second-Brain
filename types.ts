@@ -1,5 +1,4 @@
 
-
 export type View = 'dashboard' | 'action' | 'health' | 'finance' | 'library' | 'spirit' | 'projects' | 'design';
 
 export interface NoteFolder {
